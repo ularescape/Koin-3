@@ -17,16 +17,15 @@
     margin-left: 50px;
   
     }
-    
-    
-    .btn {
-    border-radius: 56px;
-    border: 2px solid #2c2f24;
-    transition: 0.3s;
-    color: #283337;
-    text-align: right;
+    .menu {
+    display: flex ;
+    padding: 20px;
+    color: #40494D;
+    font-family: Arial;
     font-size: 16px;
-    font-weight: 700;
-    line-height: 24px; /* 150% */
-    padding: 12px 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
     }
+    
+    
