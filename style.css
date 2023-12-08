@@ -28,4 +28,14 @@
     line-height: 24px; 
     }
     
-    
+    .btn {
+    border-radius: 56px;
+    border: 2px solid #2c2f24;
+    transition: 0.3s;
+    color: #283337;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+    padding: 12px 24px;
+    }
