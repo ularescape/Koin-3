@@ -3,14 +3,7 @@
     padding: 0;
     box-sizing: border-box;
   }
-  .head {
-    padding: 38px 0 33px 55px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: #FFF;
-    box-shadow: 0px 4px 8px 0px rgba(40, 51, 55, 0.08);
-    }
+  
     .head_img{
     width: 131px;
     height: 40px;
